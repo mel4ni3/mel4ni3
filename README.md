@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Melanie here, I'm a CS student at UCF!
+
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I've marched in the Macy's Thanksgiving Day Parade (2018)!
