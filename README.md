@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 Melanie here, I'm a CS student at UCF!
 
+- 🌱 I’m currently learning Python and JavaScript
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've marched in the Macy's Thanksgiving Day Parade (2018)!
