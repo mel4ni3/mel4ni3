@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <h4 align="center">Connect with me! :octocat:</h4>
 
 <p align="Center">
-<a href="https://twitter.com/creamcakex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="creamcakex" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/melanie-ehrlich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/melanie-ehrlich/" height="30" width="40" /></a>
+<a href="https://x.com/creamcakex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" alt="creamcakex" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/melanie-ehrlich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/melanie-ehrlich/" height="30" width="40" /></a>
 <a href="https://kaggle.com/melanieehrlich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melanieehrlich" height="30" width="40" /></a>
 <a href="https://instagram.com/melaniie.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melaniie.exe" height="30" width="40" /></a>
 </p>
